@@ -73,10 +73,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\DARCMigration20170607\DARCMigration20170607\DARCMigration\MigrationTool_Common\MigrationTool_Common.csproj">
-      <Project>{5785aa0a-3fc2-4cc9-9517-271b0b7cf86b}</Project>
-      <Name>MigrationTool_Common</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Com.Common\Com.Common\Com.Common.csproj">
       <Project>{4b40c558-cb89-4c31-b14e-3f9ba42ca90b}</Project>
       <Name>Com.Common</Name>

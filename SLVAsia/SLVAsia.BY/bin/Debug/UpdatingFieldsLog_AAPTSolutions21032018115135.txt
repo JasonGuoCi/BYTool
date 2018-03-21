@@ -1,0 +1,12 @@
+ExcelToDataTable method error:System.NotSupportedException: 不支持给定路径的格式。
+   在 System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 System.IO.File.OpenRead(String path)
+   在 Com.Common.Utility.ExcelHelper.ExcelToDataTable(String filePath, Boolean isColumnName, String logPath, String successLogPath) 位置 D:\Jason\Projet\SLV\Com.Common\Com.Common\Utility\ExcelHelper.cs:行号 37
+ExcelToDataTable method error:System.Data.DuplicateNameException: 名为“商品编码”的列已属于此 DataTable。
+   在 System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   在 System.Data.DataColumnCollection.BaseAdd(DataColumn column)
+   在 System.Data.DataColumnCollection.AddAt(Int32 index, DataColumn column)
+   在 System.Data.DataColumnCollection.Add(DataColumn column)
+   在 Com.Common.Utility.ExcelHelper.ExcelToDataTable(String filePath, Boolean isColumnName, String logPath, String successLogPath) 位置 D:\Jason\Projet\SLV\Com.Common\Com.Common\Utility\ExcelHelper.cs:行号 70

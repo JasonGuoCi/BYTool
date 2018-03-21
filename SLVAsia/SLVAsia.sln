@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Common", "..\Com.Common
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLVAsia.BY", "SLVAsia.BY\SLVAsia.BY.csproj", "{56C8EC02-BFF3-4665-AE28-0D08652A72A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationTool_Common", "..\..\DARCMigration20170607\DARCMigration20170607\DARCMigration\MigrationTool_Common\MigrationTool_Common.csproj", "{5785AA0A-3FC2-4CC9-9517-271B0B7CF86B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{56C8EC02-BFF3-4665-AE28-0D08652A72A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56C8EC02-BFF3-4665-AE28-0D08652A72A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56C8EC02-BFF3-4665-AE28-0D08652A72A8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5785AA0A-3FC2-4CC9-9517-271B0B7CF86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5785AA0A-3FC2-4CC9-9517-271B0B7CF86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5785AA0A-3FC2-4CC9-9517-271B0B7CF86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5785AA0A-3FC2-4CC9-9517-271B0B7CF86B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
