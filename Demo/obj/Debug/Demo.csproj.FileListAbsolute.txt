@@ -1,0 +1,7 @@
+D:\Jason\Projet\SLV\Demo\bin\Debug\Demo.exe.config
+D:\Jason\Projet\SLV\Demo\bin\Debug\Demo.exe
+D:\Jason\Projet\SLV\Demo\bin\Debug\Demo.pdb
+D:\Jason\Projet\SLV\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\Jason\Projet\SLV\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\Jason\Projet\SLV\Demo\obj\Debug\Demo.exe
+D:\Jason\Projet\SLV\Demo\obj\Debug\Demo.pdb
